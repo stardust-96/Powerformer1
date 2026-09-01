@@ -476,3 +476,4 @@ $RECYCLE.BIN/
 *.npy
 *.pth
 *.png
+.agents
